@@ -1,0 +1,20 @@
+#############
+## Fire.app
+#############
+
+.sass-cache/
+.livescript-cache/
+fire_app_log.txt
+
+#############
+## Sublime Text
+#############
+
+.editorconfig
+
+#############
+## Gulp
+#############
+
+node_modules/
+_public/
